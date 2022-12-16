@@ -1,9 +1,5 @@
 /* stylelint-disable indentation */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Crete&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=InaiMathidisplay=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter&family=Poppins&family=Roboto&display=swap');
 
 html {
   box-sizing: border-box;
@@ -26,7 +22,6 @@ html {
   background-image: url(images/header.svg);
   background-repeat: no-repeat;
   background-position: right bottom;
-  /* width: 1440px; */
   height: 870px;
 }
 
@@ -79,7 +74,7 @@ html {
 .heading {
   color: #ff6b00;
   font-size: 56px;
-  font-family: 'Crete Round', sans-serif;
+  font-family: 'Crete Round', serif;
   margin: 30% 0 0;
   font-style: normal;
 }
@@ -147,7 +142,7 @@ ul {
 }
 
 .recent-works {
-    font-family: 'Crete Round', sans-serif;
+    font-family: 'Crete Round', serif;
     font-weight: 400;
     font-size: 40px;
     line-height: 52px;
@@ -187,7 +182,7 @@ hr {
 }
 
 .Stories {
-  font-family: 'Crete Round', sans-serif;
+  font-family: 'Crete Round', serif;
   font-size: 40px;
   line-height: 52px;
   width: 448px;
@@ -283,7 +278,7 @@ li {
 }
 
 .heading5 {
-  font-family: 'Crete Round', sans-serif;
+  font-family: 'Crete Round', serif;
   font-size: 32px;
   line-height: 44px;
   color: #fff;
@@ -292,7 +287,7 @@ li {
 }
 
 .heading6 {
-    font-family: 'Crete Round', sans-serif;
+    font-family: 'Crete Round', serif;
     font-size: 32px;
     line-height: 44px;
     color: #fff;
@@ -375,14 +370,6 @@ li {
 }
 
 .about {
-  /* font-family: 'Crete Round', sans-serif;
-  font-size: 72px;
-  line-height: 88px;
-  letter-spacing: 0.37px;
-  color: #ff6b00;
-  margin-top: 70px;
-  margin-bottom: 10px; */
-
     width: 566px;
     height: 78px;
     font-family: 'Crete Round', sans-serif;
@@ -392,11 +379,6 @@ li {
 }
 
 .about-words {
-  /* font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  color: #f4f5f7;
-  margin: 10px; */
   width: 566px;
   height: 148px;
   font-family: 'Inter', sans-serif;
